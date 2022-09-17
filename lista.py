@@ -20,5 +20,5 @@ user_option = input("selecciona tu posición\n")
 index = int(user_option)-1
 student = students[index]
 
-print(student)
+print (student)
 

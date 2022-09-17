@@ -14,6 +14,7 @@ user_option = options[user_input - 1]
 
 computer_option = random.choice(options)
 
+
 print("mano1:", user_option)
 print("mano del computador:", computer_option)
 
