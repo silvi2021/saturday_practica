@@ -4,7 +4,7 @@
 str_one = "Esto es un texto"
 str_two = "Otro texto"
 
-#Los string soportan algunas operaciones como ka concatenacion
+#Los string soportan algunas operaciones como la concatenacion
 
 long_str = str_one+',' + str_two
 

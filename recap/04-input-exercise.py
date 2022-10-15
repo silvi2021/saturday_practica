@@ -6,6 +6,6 @@ name = input("ingresa tu nombre:")
 apellido = input("ingresa tu apellido:")
 
 
-print("hola",name + apellido)
+print("Hola",name , apellido)
 
 
